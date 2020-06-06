@@ -1,4 +1,4 @@
-#Select Sort
+#Selection Sort
 if nums == None or len(nums) == 0:
     return        
 for i in range(len(nums) - 1):
