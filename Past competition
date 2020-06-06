@@ -2,5 +2,13 @@ Pre-Tertiary Round 1: 找出270個商城中，每個商城sales最高的3個商�
 Pre-Tertiary Round 2:
 Undergraduate Round 1:
 Undergraduate Round 2:
-Open Round 1:
+-------------------
+Open Round 1: Data Analytics- 商品搜尋優化，解決商家濫用商品標題提昇曝光度-> 從標題中提取關鍵字，在對照關鍵字字典，找出該商品的product group
+Data:
+1. Product_group_1, (keyword_1, keyword_2 )
+2. Product_group_2, (keyworkd_2, keyword_57) (keyword可能出現在不同product group)
+
+
+
+-------------------
 Open Round 2: 我還不知道 -> 你鼻要亂改
